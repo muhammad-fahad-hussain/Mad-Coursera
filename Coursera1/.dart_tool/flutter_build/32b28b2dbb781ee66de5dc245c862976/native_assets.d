@@ -1,0 +1,1 @@
+ D:\\Uni\\6th\ Semester\\Mobile\ Application\ Development\\Coursera\\Coursera1\\.dart_tool\\flutter_build\\32b28b2dbb781ee66de5dc245c862976\\native_assets.yaml: 
